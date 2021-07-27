@@ -66,7 +66,7 @@ while progress == True:
           answer = 'Error'
         
         time.sleep(1)
-        print("Mafic 8-Ball's answer: "+answer)
+        print("Magic 8-Ball's answer: "+answer)
         time.sleep(1)
         play_again = input(f"Do you want to play again {name}? Y/N ")
         if play_again.upper() == "Y":
